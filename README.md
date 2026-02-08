@@ -1,4 +1,19 @@
 # Detemp-Cleaner
+<div align="center">
+
+  <a href="https://youtube.com/@lacoffline" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/@offlinelac" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://tiktok.com/@offlinelac" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+
+</div>
 
 # 🛠️ Windows System Maintenance: Temp & Prefetch
 
@@ -79,11 +94,4 @@ Mekanisme Windows untuk mempercepat waktu *loading* aplikasi.
 Anda bisa membersihkan ketiga folder di atas secara otomatis menggunakan file batch. Simpan kode di bawah ini sebagai ``cleaner.bat``:
 --
 
-# Download Files
-
-DOWNLOAD FILE DETEMP CLEANUP VERSION 1.4
-
-```bash
-https://mega.nz/folder/VUknlbyQ#N6ti36QLHi6OAUXHP-Pbag
-```
 <img width="228" height="134" alt="Image" src="https://github.com/user-attachments/assets/6f0918ec-6b2b-41f7-89f0-4f3dbda9eae1" />
