@@ -95,3 +95,5 @@ Anda bisa membersihkan ketiga folder di atas secara otomatis menggunakan file ba
 --
 
 <img width="228" height="134" alt="Image" src="https://github.com/user-attachments/assets/6f0918ec-6b2b-41f7-89f0-4f3dbda9eae1" />
+
+https://github.com/user-attachments/assets/bf383bdf-166f-45fd-8947-e36e458becfe
