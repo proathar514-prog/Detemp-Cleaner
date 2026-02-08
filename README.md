@@ -100,5 +100,4 @@ Anda bisa membersihkan ketiga folder di atas secara otomatis menggunakan file ba
 ### Download Link Files
 Download Link Files Zip 
 
-```bash
-https://mega.nz/ad3a57da-d119-4bb4-b2ec-cfd9ad254579
+[**>>Click Here To Download<<**](https://mega.nz/ad3a57da-d119-4bb4-b2ec-cfd9ad254579)
